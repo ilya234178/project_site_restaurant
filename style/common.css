@@ -131,7 +131,7 @@ input#menu-hamburger {
 
 /*Моб версия*/
 
-@media  screen and {
+@media  screen and (max-width: 750px){
     nav {
         padding: 30px 3vw;
     }
